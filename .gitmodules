@@ -1,0 +1,3 @@
+[submodule "libfreetype2"]
+	path = libfreetype2
+	url = https://github.com/servo/libfreetype2
